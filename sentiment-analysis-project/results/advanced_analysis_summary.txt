@@ -1,0 +1,20 @@
+Advanced Text Analysis Summary Report
+==================================================
+
+Brand/Product Mentions:
+  - Total mentions: 1324
+  - Unique brands mentioned: 1
+  - Most mentioned brand: twitter
+
+Topic Modeling:
+  - Number of topics: 5
+  - Method used: lda
+
+Aspect-based Sentiment Analysis:
+  - Total aspect mentions: 4341
+  - Unique aspects: 6
+
+Emotion Detection:
+  - Total emotion instances: 5000
+  - Unique emotions: 4
+  - Most common emotion: joy

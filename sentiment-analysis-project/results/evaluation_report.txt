@@ -1,0 +1,78 @@
+Twitter Sentiment Analysis - Model Evaluation Report
+============================================================
+
+Model Performance Comparison:
+----------------------------------------
+              Model  Accuracy  Precision  Recall  F1 Score  ROC AUC
+            svm_rbf       1.0        1.0     1.0       1.0      1.0
+logistic_regression       1.0        1.0     1.0       1.0      1.0
+      random_forest       1.0        1.0     1.0       1.0      1.0
+
+Best Performing Model: svm_rbf
+Best F1 Score: 1.0000
+
+Detailed Results - svm_rbf:
+------------------------------
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+ROC AUC: 1.0000
+
+Per-Class Performance:
+  negative:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
+  neutral:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
+  positive:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
+
+Detailed Results - logistic_regression:
+------------------------------
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+ROC AUC: 1.0000
+
+Per-Class Performance:
+  negative:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
+  neutral:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
+  positive:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
+
+Detailed Results - random_forest:
+------------------------------
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+ROC AUC: 1.0000
+
+Per-Class Performance:
+  negative:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
+  neutral:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
+  positive:
+    Precision: 1.0000
+    Recall: 1.0000
+    F1 Score: 1.0000
