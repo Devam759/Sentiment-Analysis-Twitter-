@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import { sentimentAPI } from '../api';
+import { sentimentAPI } from '../api/api';
 
 /**
  * Custom hook for application statistics

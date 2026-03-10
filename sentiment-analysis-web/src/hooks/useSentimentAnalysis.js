@@ -1,5 +1,5 @@
 import { useState, useCallback, useEffect } from 'react';
-import { sentimentAPI } from '../api';
+import { sentimentAPI } from '../api/api';
 import { LOADING_MESSAGES, ERROR_MESSAGES } from '../constants';
 import { validateTextInput, generateMockPrediction } from '../utils/helpers';
 
